@@ -49,6 +49,11 @@ footer {
 	padding: 0 50px;
 }
 
+.jumbotron .form-control {
+	font-size: 36px;
+	height: 70px;
+}
+
 .btn-lg {
 	font-size: 36px;
 }
@@ -127,7 +132,6 @@ footer {
 		font-size: 56px;
 		margin-bottom: 30px;
 	}
-
 }
 
 @media (max-width: 991px) { 
@@ -144,7 +148,6 @@ footer {
 		padding-top: 20px;
 		padding-bottom: 20px;
 	}
-
 }
 
 @media (max-width: 767px) { 
@@ -169,6 +172,4 @@ footer {
 	footer img {
 		width: 80%;
 	}
-
 }
-
